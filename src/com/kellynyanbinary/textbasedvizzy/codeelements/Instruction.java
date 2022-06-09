@@ -2,6 +2,7 @@ package com.kellynyanbinary.textbasedvizzy.codeelements;
 
 import com.kellynyanbinary.textbasedvizzy.*;
 
-public class Instruction extends CodeElement{
-    
+// The capsules
+public abstract class Instruction extends CodeElement {
+
 }
